@@ -1,5 +1,5 @@
 # OIBSIP
-This repository contains the tasks which I have completed as an Web development and Designing intern at Oasis Infobyte.
+This repository contains the tasks which I have completed as a Web development and Designing intern at Oasis Infobyte.
 
 ## Task-1 : Calculator
 A simple calculator using HTML, CSS and Javascript

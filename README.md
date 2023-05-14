@@ -11,7 +11,7 @@ A simple calculator using HTML, CSS and Javascript.
 * Modulo division
 
 ## Task-2 : Tribute Page 
-A tribute page to Satyajit Ray using HTML and CSS
+A single-page site dedicated to Satyajit Ray. Designed using HTML and CSS.
 
 ## Task-3 : ToDo List
 A webpage to list down all the important daily tasks in a single place in order not to miss anything. Designed using HTML, CSS, Javascript.
